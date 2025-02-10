@@ -3,7 +3,7 @@
 ![Texto alternativo](appiumMobileAutomation1.png)
 
 Projeto automação mobile android com appium de um aplicativo "Sauce Demo App" utilizando 
-arquitetura de screen pages. Testes implementados a penas para feature 
+arquitetura de screen pages. Testes implementados a penas para Feature: 
 login failure e sucess , estrura reutilizaveis , garantindo eficiência e
 qualidade.
 
