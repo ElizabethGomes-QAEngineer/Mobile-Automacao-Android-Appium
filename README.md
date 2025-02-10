@@ -77,24 +77,16 @@ npx wdio
 
 > 
 > **💡 NOTA:** **1. Configurações: No android usar o emulator "Pixel 8 API 31" após dar run ,no vs code digite a porta do inspector***
-
-
-
-´´´bash
-appium -p 4723
-```
-
+> **appium -p 4723**
 
 **Ultimo Passo**
 
 > após iniciar a porta no git bash execute o inspector e clique em "start session"
 > quando o app abrir no emulator  
 
- **Comando**
+> ** Após utilizar o comando**
+>**npx wdio**
 
-´´´bash
-npx wdio
-´´´
 
 
 
