@@ -1,5 +1,7 @@
 # mobile-automacao-appium
 
+![Texto alternativo](OrangeHRM.png)
+
 Projeto automação mobile android com appium de um aplicativo "Sauce Demo App" utilizando 
 arquitetura de screen pages. Testes implementados a penas para feature 
 login failure e sucess , estrura reutilizaveis , garantindo eficiência e
@@ -9,21 +11,6 @@ A proposta é aumentar a precisão e a eficiência dos processos de QA em aplica
 utilizando técnicas avançadas de automação e adotando as melhores práticas em testes de software.
 
 
-# Automação Cypress JavaScript Orange HRM com CI
-
-![Texto alternativo](OrangeHRM.png)
-
-
-
-Automação E2E com Cypress para o sistema OrangeHRM, utilizando a arquitetura Page Objects. Testes implementados para os módulos Login, Dashboard e My Info, com foco em escalabilidade e manutenção fácil. O projeto demonstra boas práticas em automação de testes e estruturas reutilizáveis, garantindo eficiência e qualidade.
-
-## ⚙️ Installar
-
-O comando npm install chance instala a biblioteca Chance.js, que é uma ferramenta simples e poderosa para gerar dados aleatórios em JavaScript. Ele foi utilizado neste projeto e será necessário.
-
-```bash
-npm install chance
-```
 ## 📋 Pré-requisitos
 
 > **💡 NOTA:**
