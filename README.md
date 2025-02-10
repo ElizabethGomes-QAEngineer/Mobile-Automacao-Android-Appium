@@ -1,6 +1,6 @@
 # mobile-automacao-appium
 
-![Texto alternativo](OrangeHRM.png)
+![Texto alternativo](appiumMobileAutomation1.png)
 
 Projeto automação mobile android com appium de um aplicativo "Sauce Demo App" utilizando 
 arquitetura de screen pages. Testes implementados a penas para feature 
