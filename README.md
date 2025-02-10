@@ -1,4 +1,4 @@
-# mobile-appium-android-automação
+# Appium Android Automação
 
 ![Texto alternativo](appiumMobileAutomation1.png)
 
