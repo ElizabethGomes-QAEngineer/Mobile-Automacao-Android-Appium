@@ -77,7 +77,7 @@ npx wdio
 
 > 
 > **💡 NOTA:** **Configurações: No android usar o emulator "Pixel 8 API 31"
-> após dar run ,no vs code digite a porta do inspector**
+> após dar run ,no vs code digite a porta do **inspector**
 > **appium -p 4723**
 > 
 
