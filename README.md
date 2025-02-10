@@ -64,7 +64,7 @@ appium
 > 
 
 
-**6.** **Execute executa o WebdriverIO run 🚀**
+**6.** **Execute o WebdriverIO run 🚀**
 
 
 
