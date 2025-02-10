@@ -8,7 +8,7 @@ login failure e sucess , estrura reutilizaveis , garantindo eficiência e
 qualidade.
 
 A proposta é aumentar a precisão e a eficiência dos processos de QA em aplicativos Android, 
-utilizando técnicas avançadas de automação e adotando as melhores práticas em testes de software.
+adotando as melhores práticas em testes de software.
 
 
 ## 📋 Pré-requisitos
