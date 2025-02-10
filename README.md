@@ -57,8 +57,10 @@ npm install -g appium
 appium
 ```
 
+
+
 > **💡 NOTA:**
-> **5** **Conecte ao seu dispositivo Android ou apenas inicie um emulador**
+> **Conecte ao seu dispositivo Android ou apenas inicie um emulador**
 > 
 
 
