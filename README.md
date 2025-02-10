@@ -84,6 +84,9 @@ npx wdio
 appium -p 4723
 ```
 
+
+**Ultimo Passo**
+
 > após iniciar a porta no git bash execute o inspector e clique em "start session"
 > quando o app abrir no emulator  
 
