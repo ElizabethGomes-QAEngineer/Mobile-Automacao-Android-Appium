@@ -15,10 +15,9 @@ adotando as melhores práticas em testes de software.
 
 > **💡 NOTA:**
 > 
-> È necessário ter o instalado
+> Certifique-se de ter os seguintes componentes instalados para executar este projeto:
+>
 > 
-
-Certifique-se de ter os seguintes componentes instalados para executar este projeto:
 
 - [Node.js (v14 ou superior)](https://nodejs.org/)
 - [Appium (última versão)](https://appium.io/docs/en/about-appium/intro/)
