@@ -23,6 +23,7 @@ adotando as melhores práticas em testes de software.
 - [Appium (última versão)](https://github.com/appium/appium)
 - [Java Development Kit (JDK) (v8 ou superior)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Android Studio (com Android SDK configurado)](https://developer.android.com/studio)
+- [WebdriverIO](https://webdriver.io/)
 - Dispositivo físico ou [Emulador Android](https://developer.android.com/studio/run/emulator) configurado para testes
 
 
